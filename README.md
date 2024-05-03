@@ -1,4 +1,4 @@
-[![MasterHead]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fngturkey.org%2Fangular%25C4%25B1n-zaman-t%25C3%25BCneli-1den-17-ye-geli%25C5%259Fim-ve-de%25C4%259Fi%25C5%259Fim-%25C3%25A7izgisi-0a4f12c90e71&psig=AOvVaw2UP0vUeWFXtx8cRArkj1pd&ust=1714814821000000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLikkZWV8YUDFQAAAAAdAAAAABAE]
+[![MasterHead]([[]
 <h1 align="center">Merhaba 👋, ben Mehmet Can Ayan</h1>
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align = "left">
