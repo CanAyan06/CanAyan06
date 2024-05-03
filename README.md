@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Mehmet Can Ayan</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön yüz geliştiricisi</h3>
+
 
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align = "left">
