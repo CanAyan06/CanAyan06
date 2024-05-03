@@ -1,4 +1,4 @@
-[![MasterHead]([[]
+
 <h1 align="center">Merhaba 👋, ben Mehmet Can Ayan</h1>
 <h3 align="left">Benimle bağlantı kurun :</h3>
 <p align = "left">
